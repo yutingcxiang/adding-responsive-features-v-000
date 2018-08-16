@@ -52,6 +52,10 @@
     margin-left: 0;
     float: none;
   }
+  
+  .border-right {
+    border: 0;
+  }
 }
 
 
